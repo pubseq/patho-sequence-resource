@@ -1,0 +1,33 @@
+# Public Sequence Resource v2
+
+This site contains the documentation as we are building it up for the second public sequence resource (aka as PubSeq). The PubSeq resource was focused on presenting public SARS-CoV-2 sequences with associated metadata and the older website still lives here:
+
+=> https://covid19.genenetwork.org/
+
+Thanks to this resource we got support for Amazon AWS Open Data initiative to host data. We also have support from Curii Corp to host their FOSS Arvados product which can run common workflow language (CWL) pipelines. Finally we have a grant from the Dutch Science Foundation (NWO) for 1 million compute hours on SURFsara's super computer and cloud HPC. See
+
+=> https://registry.opendata.aws/pubseq/ AWS Open Data PubSeq
+=> https://arvados.org/ Arvados
+=> https://www.nwo.nl/projecten/2021040 COVID-19 SARS-CoV-2 Pangenome Workflows
+=> https://servicedesk.surfsara.nl/wiki/display/WIKI/Snellius+hardware+and+file+systems SURFsara Snellius
+
+We are on NIH, NSF, Wellcome Trust and EU grants to create tools for pangenomes, CWL tools, clinical diagnostics etc.
+
+## The Goal
+
+The goal is to create and maintain a *pangenome* of all human pathogens with their metadata - as fetched from public resources (that means no data that lacks a license for sharing data). Fortunately there are some great public resources, including NCBI and EBI.
+PubSeq2 aims to bring people together to create a useful resource for clinical diagnostics.
+
+## Why?
+
+We want to get to rapid clinical diagnostics using (but not limited to) the Oxford Nanopore sequencer. For this we will build several types of pangenomes that can help quickly identifiy pathogens existing in the sequence sample --- and even use it for adaptive sequencing, for example, on a Jetson GPU.
+
+## How to participate?
+
+Join our notifications and discussions on Matrix!
+
+=> https://matrix.to/#/#PubSeq:matrix.org PubSeq:matrix.org
+
+Contribute to our source code and documentation on github
+
+=> https://github.com/pubseq/
