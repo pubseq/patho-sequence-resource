@@ -2,6 +2,8 @@
 
 Even though they may differ from a funding/organisational perspective: surveillance and clinical diagnostics are two sides of the same coin. They require the same sequencing tools, the same lab work and the same analysis.
 
+> Note that listed URLs are part of our communal track record and/or prior work.
+
 ## Outline
 
 * Oxfort Nanopore can be used for sequencing on-site. Examples exist for Zika and Ebola outbreaks
@@ -92,9 +94,31 @@ This is a list of projects (and prior effort) we can work on
 
 ### Clinical development
 
+* Lab information systems
 * Software for connecting to other systems
+* Basic Lab Information Systems (BLIS) Kenya and Uganda for hospitals
+* National data repositories
+
+=> http://www.khro.health.go.ke Kenya Health and Research Observatory (KHRO) includes COVID19 tracker
+
+* International initiatives
+
+=> http://www.mhealth4afrika.eu/page/partners/ H2020 mHealth4Afrika        European Union (EU) Funded research on use of ICT (Kenya, Ethiopia, Kenya, Malawi & South Africa)
+
 * Friendly UI for doctors
 
 ### Data science
 
+* Cleansing and normalisation of clinical (meta)data
+
+=> http://www.ilabafrica.ac.ke/ We are involved in developing new data science programs at Strathmore University, Nairobi, and Pwani University, Kilifi
+
 ### Capacity building
+
+=> https://www.ilri.org/news/develop-demonstrate-and-deploy%E2%80%99-building-capacity-dna-sequencing-agricultural-biosciences ILRI Kenya is training people to use ONT
+
+### Research questions
+
+* Pathogen detection and clinical diagnostics on location
+* Pathogenic variant development
+* Relationship to immunocompromised patients
