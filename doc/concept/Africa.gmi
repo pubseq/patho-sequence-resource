@@ -31,6 +31,7 @@ Even though they may differ from a funding/organisational perspective: surveilla
 
 * A medium sized mini pangenome can be used on the locally hosted central HPC for analysing nearest neighbours and placing sequences on a phylogenetic tree
 
+
 ### Meta pangenome
 
 * We will create a very large pangenome containing all metadata of known pathogens
@@ -43,8 +44,53 @@ Even though they may differ from a funding/organisational perspective: surveilla
 
 => http://hegp.genenetwork.org/
 
+## Clinical setting
+
+* Protocols for pathogen sequencing
+* Hardware/software development with Jetson
+* Rapid diagnostic reporting to doctors
+* Embedding in hospital management information systems
+* Send data upstream for processing and surveillance
 
 ### Costs
 
 * Nanopore sequencer + Jetson has upfront cost of about $2000
 * When multiplexing sample prep costs go down to $100 per patient
+
+## Challenges
+
+This is a list of projects (and prior effort) we can work on
+
+### Pangenomes
+
+* Fetch public data
+
+=> https://github.com/pubseq/bh20-seq-resource/tree/master/workflows/pull-data/genbank prior work to fetch genbank data
+
+* Normalise data, for example
+
+=> https://covid19.genenetwork.org/blog?id=covid19-pubseq-location-data prior work to normalise with wikidata URIs
+
+* Create pangenomes from data
+
+=> https://github.com/pubseq/bh20-seq-resource/tree/master/workflows/pangenome-generate prior work to create pangenomes for SARS2
+
+* Create CCWL workflows for pangenomes
+
+=> https://github.com/pubseq/bh20-seq-resource/tree/master/workflows prior work CWL workflows
+
+* Embed metadata in pangenome
+* Find nearest matches in pangenome and
+* Create phylogenetic tree from pangenome
+
+=> https://github.com/pubseq/bh20-seq-resource/tree/master/workflows/phylogeny prior work to build trees
+
+### Oxford Nanopore
+
+* Pangenome-driven adaptive sequencing
+* Base-calling - free software approaches
+
+### Clinical development
+
+* Software for connecting to other systems
+* Friendly UI for doctors
