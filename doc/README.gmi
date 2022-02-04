@@ -1,6 +1,6 @@
 ## Introduction
 
-This site contains the documentation as we are building it up for the second public sequence resource (aka as PubSeq). The PubSeq1 resource was focused on presenting public SARS-CoV-2 sequences with associated metadata and the older website still lives here:
+This site contains the documentation as we are building it up for the second public sequence resource (aka as PubSeq2). The original PubSeq1 resource was focused on presenting public SARS-CoV-2 sequences with associated metadata and the older website lives here:
 
 => https://covid19.genenetwork.org/
 
@@ -22,7 +22,7 @@ PubSeq2 aims to bring people together to create a useful resource.
 
 ## Why?
 
-We want to get to affordable human pathogen surveillance and rapid clinical diagnostics using (but not limited to) the Oxford Nanopore sequencer. For this we will build several types of pangenomes that can help quickly identifiy pathogens existing in the sequence sample --- and even use it for adaptive sequencing, for example, with a Jetson GPU. For a few thousand dollars anyone can set up a sequencing lab for surveillance and clinical diagnostics.
+We want to get to affordable human pathogen surveillance and rapid clinical diagnostics using (but not limited to) the Oxford Nanopore sequencer. For this we will build several types of pangenomes that can help quickly identify pathogens existing in the sequence sample --- and even use it for adaptive sequencing, for example, with a Jetson GPU. For a few thousand dollars anyone can set up a sequencing lab for surveillance and clinical diagnostics.
 
 ## Who?
 
