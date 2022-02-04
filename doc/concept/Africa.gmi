@@ -94,3 +94,7 @@ This is a list of projects (and prior effort) we can work on
 
 * Software for connecting to other systems
 * Friendly UI for doctors
+
+### Data science
+
+### Capacity building
