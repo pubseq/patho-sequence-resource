@@ -2,6 +2,8 @@
 
 Even though they may differ from a funding/organisational perspective: surveillance and clinical diagnostics are two sides of the same coin. They require the same sequencing tools, the same lab work and the same analysis.
 
+The goal of this document is to bring our knowledge together and the amazing combined track record to enable future work.
+
 > Note that listed URLs are part of our communal track record and/or prior work.
 
 => ../README.gmi Some background on the Public Sequencing effort (PubSeq) that started all this
@@ -19,7 +21,7 @@ Even though they may differ from a funding/organisational perspective: surveilla
 
 * An attached computer with GPU (e.g. NVIDIA Jetson) can support adaptive sequencing
 
-=> https://github.com/sirselim/jetson_nanopore_sequencing/blob/main/README.md Miles Benson is working Jetson development
+=> https://github.com/sirselim/jetson_nanopore_sequencing/blob/main/README.md Miles Benson (NZ) is working on Jetson development
 
 * Sample prep can be greatly simplified with adaptive sequencing
 * Above procedure is being tried in New Zealand at hospital level
