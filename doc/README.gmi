@@ -32,6 +32,12 @@ The participants are on NIH, NSF, Wellcome Trust and EU grants to create tools f
 
 Note that, even though the focus is on human pathogens, the tooling will be widely applicable to many species.
 
+## More
+
+Here we are writing up a concept note that is relevant for Africa
+
+=> concept/Africa.gmi
+
 ## How to participate?
 
 Join our notifications and discussions on Matrix!

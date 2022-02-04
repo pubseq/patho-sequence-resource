@@ -1,0 +1,50 @@
+# Concept note
+
+Even though they may differ from a funding/organisational perspective: surveillance and clinical diagnostics are two sides of the same coin. They require the same sequencing tools, the same lab work and the same analysis.
+
+## Outline
+
+* Oxfort Nanopore can be used for sequencing on-site. Examples exist for Zika and Ebola outbreaks
+* Oxford Nanopore is used for all SARS-CoV-2 sequencing in Kenya, New Zealand and Uganda, e.g.
+
+=> https://wwwnc.cdc.gov/eid/article/27/5/21-0514_article Transmission of Severe Acute Respiratory Syndrome Coronavirus 2 during Border Quarantine and Air Travel, New Zealand (Aotearoa)
+
+* Adaptive sequencing can stop the sequencer when a known sequence is running
+
+=> https://nanoporetech.com/resource-centre/adaptive-sampling-oxford-nanopore Adaptive sampling with Oxford Nanopore
+
+* An attached computer with GPU (e.g. NVIDIA Jetson) can support adaptive sequencing
+
+=> https://github.com/sirselim/jetson_nanopore_sequencing/blob/main/README.md Miles Benson is working Jetson development
+
+* Sample prep can be greatly simplified with adaptive sequencing
+* Above procedure is being tried in New Zealand at hospital level
+
+### Micro pangenome
+
+* Current adaptive sequencing is based on reference genomes
+* We can introduce pangenome adaptive sequencing (PAS?) by computing a micro pangenome that fits on the Jetson
+* Base calling happens on the Jetson, greatly reducing data size
+* Remaining data can be sent over mobile networks to a national locally hosted central HPC
+
+### Mini pangenome
+
+* A medium sized mini pangenome can be used on the locally hosted central HPC for analysing nearest neighbours and placing sequences on a phylogenetic tree
+
+### Meta pangenome
+
+* We will create a very large pangenome containing all metadata of known pathogens
+* This data will be created and maintained on a much larger (super)computer
+* We will create secure compute and/or national enclaves to warrant no bleeding of information when computation happens on this computer. This is part of the NSF panaroma grant
+
+=> https://www.ece.cornell.edu/news/5m-grant-will-tackle-pangenomics-computing-challenge
+
+* We can also look for homomorphic encryption strategies where computations are executed on the encrypted data (so the raw data never gets unencrypted. GWAS example:
+
+=> http://hegp.genenetwork.org/
+
+
+### Costs
+
+* Nanopore sequencer + Jetson has upfront cost of about $2000
+* When multiplexing sample prep costs go down to $100 per patient
