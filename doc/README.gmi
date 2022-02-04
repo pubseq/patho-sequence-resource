@@ -1,4 +1,4 @@
-# Public Sequence Resource v2
+## Introduction
 
 This site contains the documentation as we are building it up for the second public sequence resource (aka as PubSeq). The PubSeq resource was focused on presenting public SARS-CoV-2 sequences with associated metadata and the older website still lives here:
 
@@ -11,16 +11,23 @@ Thanks to this resource we got support for Amazon AWS Open Data initiative to ho
 => https://www.nwo.nl/projecten/2021040 COVID-19 SARS-CoV-2 Pangenome Workflows
 => https://servicedesk.surfsara.nl/wiki/display/WIKI/Snellius+hardware+and+file+systems SURFsara Snellius
 
-We are on NIH, NSF, Wellcome Trust and EU grants to create tools for pangenomes, CWL tools, clinical diagnostics etc.
 
 ## The Goal
 
 The goal is to create and maintain a *pangenome* of all human pathogens with their metadata - as fetched from public resources (that means no data that lacks a license for sharing data). Fortunately there are some great public resources, including NCBI and EBI.
-PubSeq2 aims to bring people together to create a useful resource for clinical diagnostics.
+PubSeq2 aims to bring people together to create a useful resource.
 
 ## Why?
 
-We want to get to rapid clinical diagnostics using (but not limited to) the Oxford Nanopore sequencer. For this we will build several types of pangenomes that can help quickly identifiy pathogens existing in the sequence sample --- and even use it for adaptive sequencing, for example, on a Jetson GPU.
+We want to get to affordable human pathogen surveillance and rapid clinical diagnostics using (but not limited to) the Oxford Nanopore sequencer. For this we will build several types of pangenomes that can help quickly identifiy pathogens existing in the sequence sample --- and even use it for adaptive sequencing, for example, with a Jetson GPU. For a few thousand dollars anyone can set up a sequencing lab for surveillance and clinical diagnostics.
+
+## Who?
+
+The participants are on NIH, NSF, Wellcome Trust and EU grants to create tools for pangenomes, CWL tools, clinical diagnostics etc.
+
+## Note
+
+Note that, even though the focus is on human pathogens, the tooling will be widely applicable to many species.
 
 ## How to participate?
 
