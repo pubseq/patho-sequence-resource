@@ -4,6 +4,8 @@ Even though they may differ from a funding/organisational perspective: surveilla
 
 > Note that listed URLs are part of our communal track record and/or prior work.
 
+=> ../README.gmi Some background on the Public Sequencing effort (PubSeq) that started all this
+
 ## Outline
 
 * Oxfort Nanopore can be used for sequencing on-site. Examples exist for Zika and Ebola outbreaks
