@@ -113,6 +113,18 @@ This is a list of projects (and prior effort) we can work on
 
 * Friendly UI for doctors
 
+### Surveillance
+
+Tracking the introduction and spread of SARS-CoV-2 in coastal Kenya
+Nat Commun. 2021; 12: 4809. (open access)
+=> https://www.nature.com/articles/s41467-021-25137-x
+
+A year of genomic surveillance reveals how the SARS-CoV-2 pandemic unfolded in Africa, Science. 2021 Oct 22;374(6566):423-431. (open access)
+=> https://doi.org/10.1126/science.abj4336
+
+Airborne Transmission of SARS-CoV-2 Delta Variant within Tightly Monitored Isolation Facility, New Zealand (Aotearoa)
+=> https://doi.org/10.3201/eid2803.212318
+
 ### Data science
 
 * Cleansing and normalisation of clinical (meta)data
