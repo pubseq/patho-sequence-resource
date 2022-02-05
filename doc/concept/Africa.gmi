@@ -4,9 +4,11 @@ Even though they may differ from a funding/organisational perspective: surveilla
 
 The goal of this document is to bring our knowledge together and the amazing combined track record to enable future work.
 
-> Note that listed URLs are part of our communal track record and/or prior work.
+> Note URLs listed on this page are part of our communal track record and/or prior work.
 
 => ../README.gmi Some background on the Public Sequencing effort (PubSeq) that started all this
+
+=> references.gmi Relevant references *not* directly connected to our track record
 
 ## Outline
 
@@ -126,3 +128,7 @@ This is a list of projects (and prior effort) we can work on
 * Pathogen detection and clinical diagnostics on location
 * Pathogenic variant development
 * Relationship to immunocompromised patients
+
+### References
+
+=> references.gmi

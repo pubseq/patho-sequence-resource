@@ -6,14 +6,17 @@
 
 h1,h2 { font-family: Lucida Sans Typewriter,Lucida Console,monaco,Bitstream Vera Sans Mono,monospace; color:black; background-color: #e5d8f0;}
 h2 { color: black; background-color: lightgrey; }
-h3,h4 { color: black; margin:0; background-color: lightgrey; }
+h3,h4 { color: black; margin:10px; background-color: lightgrey; }
+ul { margin: 0 0; }
 code { color: darkblue; }
 body {font-family: Palatino, 'Palatino Linotype', serif; color:black; background-color:white; font-size: large; padding: 10px; }
 
 div.edit { text-align: right; }
 div.verbatim { margin: 30px; color: black; background-color: white; border-style:outset;
                font-family: palatino font, monospace; font-size:80%;  font-weight:bold; }
-div.quote { font-family: palatino font, monospace; font-size:80%; }
+div.uri:before { content: "⇒"; }
+div.uri { margin: 0px 40px; font-family: palatino font; font-size:80%; }
+div.quote { background-color: lightyellow; font-family: palatino font, monospace; font-weight: bold; color: darkblue ;  font-size:90%; border-left: 4px solid rgb(4, 170, 109); }
 div.quotation { font-family: palatino font, monospace; font-size:80%; }
 pre.example { margin: 30px; font-family: prestige, monospace; color:black; font-size:70%; background-color: lightyellow;  }
 pre.src { margin: 30px; font-family: prestige, monospace; font-weight: bold; color:white; font-size:80%; background-color: black;  }

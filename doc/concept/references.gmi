@@ -1,0 +1,10 @@
+# References
+
+This file contains references related to nanopore work in East-Africa
+
+=> Africa.gmi Back to Africa concept note
+
+## Companies
+
+* Nairobi lab/India collaboration involved in nanopore sequencing and vaccin development. Nature paper is open access and highlights work on Dengue vaccin.
+=> https://www.nature.com/articles/d44151-022-00009-5
