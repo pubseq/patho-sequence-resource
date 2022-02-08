@@ -2,9 +2,9 @@
 
 Even though they may differ from a funding/organisational perspective: surveillance and clinical diagnostics are two sides of the same coin. They require the same sequencing tools, the same lab work and the same analysis.
 
-The goal of this document is to bring our knowledge together and the amazing combined track record to enable future work.
+The goal of this document is to bring our knowledge together and the amazing combined track record to enable future work on sequencing, pangenomes and software+hardware solutions with a focus diagnostics, surveillance and capacity building.
 
-> Note URLs listed on this page are part of our communal track record and/or prior work.
+> Note that all URLs listed on this page are part of *our* communal track record and/or prior work.
 
 => ../README.gmi Some background on the Public Sequencing effort (PubSeq) that started all this
 
