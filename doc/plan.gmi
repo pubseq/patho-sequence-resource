@@ -44,9 +44,13 @@ Note this approach contrasts with existing 'reference'-based approaches.
 
 * Write software to give immediate feedback to Doctors
 
+> Lead: Shelby Solomon
+
 ## Interfaces
 
 * Write software to upload data to national resources
+
+> Lead: Shelby Solomon
 
 ## Build CWL environment 'on demand' on SURFSara
 
