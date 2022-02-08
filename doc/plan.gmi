@@ -30,13 +30,13 @@ To make PubSeq2 a reality we need to work on (not necessarily in this order):
 * Add software for annotation
 * Introduce CWL workflows for pangenomes for different targets (clinical/surveillance, small/medium/large size)
 
-> Leads: Arun Isaac, Pjotr Prins
+> Leads: Arun Isaac, Pjotr Prins, Andrea Guarracino, Michael Crusoe, Erik Garrison
 
 ## Search pangenomes
 
 * Starting from a sequence locate the nearest match in a pangenome
 
-> Lead:
+> Lead: Pjotr Prins, Andrea Guarracino, Erik Garrison
 
 ## Support adaptive nanopore sequencing
 
@@ -64,7 +64,7 @@ Note this approach contrasts with existing 'reference'-based approaches.
 * Add permanent data storage
 * Introduce CWL environment
 
-> Lead: Arun Isaac
+> Lead: Arun Isaac, Michael Crusoe, Pjotr Prins
 
 ## Create new front-end website
 
