@@ -30,7 +30,7 @@ To make PubSeq2 a reality we need to work on (not necessarily in this order):
 * Add software for annotation
 * Introduce CWL workflows for pangenomes for different targets (clinical/surveillance, small/medium/large size)
 
-> Lead:
+> Leads: Arun Isaac, Pjotr Prins
 
 ## Search pangenomes
 
