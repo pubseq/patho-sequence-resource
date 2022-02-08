@@ -7,6 +7,7 @@ The goal of this document is to bring our knowledge together and the amazing com
 > Note that all URLs listed on this page are part of *our* communal track record and/or prior work.
 
 => ../README.gmi Some background on the Public Sequencing effort (PubSeq) that started all this
+=> ../plan.gmi PubSeq2 plan
 
 => references.gmi Relevant references *not* directly connected to our track record
 

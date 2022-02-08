@@ -1,0 +1,82 @@
+# PubSeq Plan
+
+The goal for PubSeq2 is to create and maintain a *pangenome* of all human pathogens with their metadata. For more on the project see
+
+=> README.gmi
+
+We note that, even though we have funds for compute and data storage, all actual work has to happen on the back of running (and future) grants. I.e., we have no real dedicated funding for execution and efforts are voluntary contributions. We as contributors agree that PubSeq2 pangenomes will be a great resource for future work.
+
+Some of this plan is driven by the Africa concept note:
+
+=> concept/Africa.gmi
+
+# PLAN
+
+To make PubSeq2 a reality we need to work on (not necessarily in this order):
+
+## Data collection
+
+* Fetch public sequences from NCBI and EBI
+* Annotate sequences with metadata
+* Normalise metadata
+* Create workflows that can update fetching data automatically
+
+> Lead: Pjotr Prins
+
+## Create pangenomes
+
+* Use odgi tooling and pggb to create pangenome(s)
+* Improve odgi to handle many small pathogens
+* Add software for annotation
+* Introduce CWL workflows for pangenomes for different targets (clinical/surveillance, small/medium/large size)
+
+## Search pangenomes
+
+* Starting from a sequence locate the nearest match in a pangenome
+
+## Support adaptive nanopore sequencing
+
+* Write software to use pangenome search on the fly for adaptive sequencing, running on NVIDIA Jetson driving the Oxford Nanopore
+
+Note this approach contrasts with existing 'reference'-based approaches.
+
+## Create clinical user interface
+
+* Write software to give immediate feedback to Doctors
+
+## Interfaces
+
+* Write software to upload data to national resources
+
+## Build CWL environment 'on demand' on SURFSara
+
+* Create VMs on demand
+* Add permanent data storage
+* Introduce CWL environment
+
+## Create new front-end website
+
+* Pubseq1 is a great prototype, but we need to start from scratch
+
+=> https://covid19.genenetwork.org/ PubSeq1 website
+
+> Lead: Pjotr Prins
+
+
+# Future work
+
+## Work on phylogeny
+
+* Introduce Nextstrain-type visualisations
+
+## Privacy/enclaves for running remote analysis
+
+* Create secure compute/enclave for pangenome search (2023?)
+
+## Create RISC-V device for driving Nanopore
+
+* Create RISC-V alternative to NVIDIA Jetson (2025?)
+
+## Introduce pangenome analysis on RISC-V supercomputer
+
+* Introduce RISC-V pangenome supercomputer (2025?)

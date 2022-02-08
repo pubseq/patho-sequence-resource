@@ -17,8 +17,8 @@ On a separate track we have an initiative to create a 1 million core RISC-V supe
 
 ## The Goal
 
-The goal for PubSeq2 is to create and maintain a *pangenome* of all human pathogens with their metadata - as fetched from public resources (that means no data that lacks a license for sharing data). Fortunately there are some great public resources, including NCBI and EBI.
-PubSeq2 aims to bring people together to create a useful resource.
+The goal for PubSeq2 is to create and maintain a *pangenome* of all human pathogens with their *metadata* - as fetched from public resources (that means no data that lacks a license for sharing data). Fortunately there are some great public resources, including NCBI and EBI.
+The PubSeq2 project aims to bring people together to create a useful resource.
 
 ## Why?
 
@@ -31,6 +31,10 @@ The participants are on NIH, NSF, Wellcome Trust and EU grants to create tools f
 ## Note
 
 Note that, even though the focus is on human pathogens, the tooling will be widely applicable to many species.
+
+## Plan
+
+=> plan.gmi
 
 ## More
 
