@@ -30,15 +30,21 @@ To make PubSeq2 a reality we need to work on (not necessarily in this order):
 * Add software for annotation
 * Introduce CWL workflows for pangenomes for different targets (clinical/surveillance, small/medium/large size)
 
+> Lead:
+
 ## Search pangenomes
 
 * Starting from a sequence locate the nearest match in a pangenome
+
+> Lead:
 
 ## Support adaptive nanopore sequencing
 
 * Write software to use pangenome search on the fly for adaptive sequencing, running on NVIDIA Jetson driving the Oxford Nanopore
 
 Note this approach contrasts with existing 'reference'-based approaches.
+
+> Lead:
 
 ## Create clinical user interface
 
@@ -57,6 +63,8 @@ Note this approach contrasts with existing 'reference'-based approaches.
 * Create VMs on demand
 * Add permanent data storage
 * Introduce CWL environment
+
+> Lead: Arun Isaac
 
 ## Create new front-end website
 
