@@ -4,7 +4,7 @@ The goal for PubSeq2 is to create and maintain a *pangenome* of all human pathog
 
 => README.gmi
 
-We note that, even though we have funds for compute and data storage, all actual work has to happen on the back of running (and future) grants. I.e., we have no real dedicated funding for execution and efforts are voluntary contributions. We as contributors agree that PubSeq2 pangenomes will be a great resource for future work.
+We note that, even though we have funds for compute and data storage, all actual work has to happen on the back of running (and future) grants. I.e., we have no real dedicated funding for execution and efforts are voluntary contributions. We as contributors agree that PubSeq2 pangenomes will be a great resource for future work and can drive new grants.
 
 Some of this plan is driven by the Africa concept note:
 
