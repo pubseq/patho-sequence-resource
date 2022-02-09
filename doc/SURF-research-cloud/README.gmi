@@ -1,0 +1,9 @@
+# SURF
+
+In these files we document accessing PubSeq2 infrastructure on the Dutch SURF facilities.
+
+The collaboration project is called `pangenomeworkflows-umcg`
+
+Research cloud gives access to VMs and container infrastructure, as well as permanent storage.
+
+=> research-cloud.gmi Research Cloud HOWTO

@@ -1,0 +1,17 @@
+# SURF Research Cloud
+
+## Signing up
+
+Sign up with one of the official providers. If you are non-affiliated with a Dutch institute it is possible to sign up through `eduid.nl` or `surfguest.nl`.
+
+=> https://eduid.nl/en/
+
+## Logging in
+
+=> https://portal.live.surfresearchcloud.nl/ Manage VMs, containers, storage
+
+The collaboration project is called `pangenomeworkflows-umcg`
+
+To add ssh keys (ecdsa keys work from anywhere) and visit users use srams via your user profile. Make sure to have new lines in the ssh key uploader!
+
+Once you have the keys set, create a VM and log in using the instructions.
