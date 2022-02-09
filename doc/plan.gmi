@@ -4,7 +4,11 @@ The goal for PubSeq2 is to create and maintain a *pangenome* of all human pathog
 
 => README.gmi
 
-=> SURF-research-cloud/README.gmi Accessing SURF HPC
+=> SURF-research-cloud/README.gmi Accessing SURF HPC and online VMs
+
+SURF HPC VMs are accessible from outside (ssh, http) which means we can host a message broker for pangenome building and sharing. We also have CPU time on the supercomputer Snellius
+
+=> https://servicedesk.surfsara.nl/wiki/display/WIKI/Snellius+hardware+and+file+systems Snellius supercomputer
 
 We note that, even though we have funds for compute (1M CPU hrs) and data storage (2TB), all actual work has to happen on the back of running (and future) grants. I.e., we have no real dedicated funding for execution and efforts are voluntary contributions. We as contributors agree that PubSeq2 pangenomes will be a great resource for future work and can drive new grants.
 
