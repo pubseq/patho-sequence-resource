@@ -52,7 +52,7 @@ To make PubSeq2 a reality we need to work on (not necessarily in this order):
 
 Note this approach contrasts with existing 'reference'-based approaches.
 
-> Lead: Joep de Ligt,George Githinji
+> Lead: Joep de Ligt, George Githinji
 
 ## Create clinical user interface
 
@@ -72,7 +72,7 @@ Note this approach contrasts with existing 'reference'-based approaches.
 * Add permanent data storage
 * Introduce CWL environment
 
-> Lead: Arun Isaac, Michael Crusoe, Pjotr Prins
+> Lead: Arun Isaac, Michael Crusoe, Pjotr Prins, Peter Amstutz
 
 ## Create new front-end website
 
