@@ -73,6 +73,11 @@ Note this approach contrasts with existing 'reference'-based approaches.
 * Create VMs on demand
 * Add permanent data storage
 * Introduce CWL environment
+* Fire up VMs through SURF API (requires SURF support - they have Ansible)
+=> https://github.com/SasSwart/arvados-cluster Existing support as written by Sas Swart and Michael Crusoe is using OpenNebula + Saltstack
+* Create Debian/Guix VMs as Apps
+* Deploy and orchestrate Arvados 'cluster' through Saltstack and/or Guix
+* Snellius supercompute of certain tasks
 
 > Lead: Arun Isaac, Efraim Flashner, Michael Crusoe, Pjotr Prins, Peter Amstutz
 
@@ -82,7 +87,7 @@ Note this approach contrasts with existing 'reference'-based approaches.
 
 => https://covid19.genenetwork.org/ PubSeq1 website
 
-> Lead: Pjotr Prins
+> Lead: Pjotr Prins, Bonface Munyoki, Jorge Gomez
 
 
 # Future work
