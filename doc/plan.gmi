@@ -1,3 +1,5 @@
+> thinking big together using small hardware...
+
 # PubSeq Plan
 
 The goal for PubSeq2 is to create and maintain a *pangenome* of all human pathogens with their metadata. For more on the project see
