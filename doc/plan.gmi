@@ -74,7 +74,7 @@ Note this approach contrasts with existing 'reference'-based approaches.
 * Add permanent data storage
 * Introduce CWL environment
 
-> Lead: Arun Isaac, Michael Crusoe, Pjotr Prins, Peter Amstutz
+> Lead: Arun Isaac, Efraim Flashner, Michael Crusoe, Pjotr Prins, Peter Amstutz
 
 ## Create new front-end website
 
