@@ -52,7 +52,7 @@ To make PubSeq2 a reality we need to work on (not necessarily in this order):
 
 Note this approach contrasts with existing 'reference'-based approaches.
 
-> Lead: Joep de Ligt
+> Lead: Joep de Ligt,George Githinji
 
 ## Create clinical user interface
 
@@ -62,7 +62,7 @@ Note this approach contrasts with existing 'reference'-based approaches.
 
 ## Interfaces
 
-* Write software to upload data to national resources
+* Write software to upload data to national/public resources
 
 > Lead: Shelby Solomon
 
