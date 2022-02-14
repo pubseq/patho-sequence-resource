@@ -94,7 +94,10 @@ Note this approach contrasts with existing 'reference'-based approaches.
 
 ## Work on phylogeny
 
+* Compute the phylogeny from the pangenome
 * Introduce Nextstrain-type visualisations
+
+> Lead: Gianluca Della Vedova, Simone Ciccolella
 
 ## Privacy/enclaves for running remote analysis
 
