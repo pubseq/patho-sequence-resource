@@ -9,6 +9,7 @@ The goal of this document is to bring our knowledge together and the amazing com
 => ../README.gmi Some background on the Public Sequencing effort (PubSeq) that started all this
 => ../plan.gmi PubSeq2 plan
 
+=> funding.gmi    Funding opportunities
 => references.gmi Relevant references *not* directly connected to our track record
 
 ## Outline
